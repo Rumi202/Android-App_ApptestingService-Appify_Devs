@@ -47,5 +47,3 @@ This repository is structured to provide clear access to all testing outputs:
 | `[Environment_Setup.md](Environment_Setup.md)` | Detailed notes on the setup, configuration, and tools used during the QA process. |
 
 
-*Created by [Your Name] for Appify Devs.*
-*Date: [Current Date]*
