@@ -42,9 +42,8 @@ This repository is structured to provide clear access to all testing outputs:
 | Folder/File | Description |
 | :--- | :--- |
 | `[Test_Cases/](Test_Cases)` | Full documentation of all planned test scenarios and expected results (e.g., spreadsheet or markdown files). |
-| `[Execution_Summary.pdf](Execution_Summary.pdf)` | A high-level report detailing the overall execution status (Pass/Fail/Blocked rate). |
+| `[Test_logs(test case execution).pdf(test case execution)` | A high-level report detailing the overall execution status (Pass/Fail/Blocked rate). |
 | `[Defect_Log.xlsx](Defect_Log.xlsx)` | The comprehensive list of all identified bugs, including Steps to Reproduce, Severity, Priority, and Status. |
-| `[Screenshots_Evidence/](Screenshots_Evidence)` | Visual proof of critical successful tests and, more importantly, evidence for all reported defects. |
 | `[Environment_Setup.md](Environment_Setup.md)` | Detailed notes on the setup, configuration, and tools used during the QA process. |
 
 ## ⚠️ Key Findings Summary
