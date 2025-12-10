@@ -11,7 +11,7 @@ The objective of this testing cycle was to rigorously verify the application's c
 ### Target Application
 * **Project:** Appify Devs 'App Testing Service'
 * **Platform:** Native Android Application
-* **Tested Version:** `v2.1.0` (Specify the exact build/version you tested)
+
 
 ### Testing Types Performed
 * ✅ **Functional Testing:** Verifying all features against requirements.
@@ -21,9 +21,9 @@ The objective of this testing cycle was to rigorously verify the application's c
 
 ### Key Modules Covered
 * **User Authentication:** Sign-up, Login, Password Reset flows.
-* **Core Service Flow:** Main functionality (e.g., booking a service, retrieving results).
-* **User Dashboard:** Display of current/past service requests and user profile management.
-* **Payment Integration:** (If applicable) Testing the flow before handing off to the payment gateway.
+* **Core Service Flow:** Main functionality.
+* **User Dashboard:** Display of current/past service  for this app and user profile management.
+
 
 ## 🛠️ Testing Environment Details
 
@@ -31,7 +31,7 @@ To ensure reproducibility, testing was executed under the following conditions:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Android OS Versions** | Android 14 (Physical), Android 13 (Emulator), Android 12 (Emulator) |
+| **Android OS Versions** | Android 11 (Physical),  Android 12 (Emulator) |
 | **Devices Used** | One plus Nord CE (Physical Device)|
 | **Network Conditions** | Stable Wi-Fi (Simulated 4G) |
 | 
