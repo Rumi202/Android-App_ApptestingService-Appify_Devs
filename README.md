@@ -1,12 +1,12 @@
-# 📱 AppifyDevs 'App Testing Service' - Manual QA Report
+# AppifyDevs 'App Testing Service' - Manual QA Report
 
-## 🌟 Project Overview
+##  Project Overview
 
 This repository holds the official documentation, artifacts, and results generated from the **Manual Quality Assurance (QA) testing phase** for the **Appify Devs 'App Testing Service' Android Application**.
 
 The objective of this testing cycle was to rigorously verify the application's core functionality, user experience (UI/UX), and overall stability on various Android environments prior to the next major release.
 
-## 📋 Testing Scope and Objectives
+##  Testing Scope and Objectives
 
 ### Target Application
 * **Project:** Appify Devs 'App Testing Service'
@@ -25,7 +25,7 @@ The objective of this testing cycle was to rigorously verify the application's c
 * **User Dashboard:** Display of current/past service  for this app and user profile management.
 
 
-## 🛠️ Testing Environment Details
+## Testing Environment Details
 
 To ensure reproducibility, testing was executed under the following conditions:
 
@@ -35,7 +35,7 @@ To ensure reproducibility, testing was executed under the following conditions:
 | **Devices Used** | One plus Nord CE (Physical Device)|
 | **Network Conditions** | Stable Wi-Fi (Simulated 4G) |
 | 
-## 📦 Repository Contents (Deliverables)
+##  Repository Contents (Deliverables)
 
 This repository is structured to provide clear access to all testing outputs:
 
