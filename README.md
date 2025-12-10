@@ -32,10 +32,9 @@ To ensure reproducibility, testing was executed under the following conditions:
 | Parameter | Details |
 | :--- | :--- |
 | **Android OS Versions** | Android 14 (Physical), Android 13 (Emulator), Android 12 (Emulator) |
-| **Devices Used** | Samsung Galaxy S21 (Physical Device), Google Pixel 6 Pro (Emulator) |
-| **Network Conditions** | Stable Wi-Fi (Simulated 4G/LTE was used for specific tests) |
-| **Test Data Used** | Sanitized test accounts and mock data (See `Test_Data/` folder) |
-
+| **Devices Used** | One plus Nord CE (Physical Device)|
+| **Network Conditions** | Stable Wi-Fi (Simulated 4G) |
+| 
 ## 📦 Repository Contents (Deliverables)
 
 This repository is structured to provide clear access to all testing outputs:
